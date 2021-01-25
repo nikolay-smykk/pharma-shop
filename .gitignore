@@ -30,3 +30,6 @@ yarn-error.log*
 .env.production.local
 data/product.json
 data/category.json
+shop/.next/cache/next-babel-loader/content-v2/sha512/00/02/a03e7e7a8defbd33d1b8334f1c272e85efad80642662c3ead90f28540ec1342ea1e912a9ebaadeaea9ffc7dccf312a1e97e44f76b4aadc293e7539216052
+shop/.next/cache/next-babel-loader/content-v2/sha512/05/c9/1949d942d6a629fc7eee23c5312450580d8d69353c78edc80f26bb52a992c1ab0a87b9c5d73045a1f049b4c2228ace023c0d5db3912a7e4f5278372a73b2
+shop/node_modules/.bin/acorn
