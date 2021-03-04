@@ -5,7 +5,7 @@ import Products from './components/Poducts/Products';
 
 const App = () => {
   return (
-    <motion.div animate={{ scale: 0.5 }} transition={{ duration: 2 }}>
+    <motion.div animate={{ scale: 1 }} transition={{ duration: 2 }}>
       <Products />
     </motion.div>
   );
